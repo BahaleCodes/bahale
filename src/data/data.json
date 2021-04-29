@@ -1,12 +1,12 @@
 {
     "Header": {
 
-        "title": "Ke rona Bahale Codes Software",
-        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+        "title": "Ke rona Bahale Codes Software"
 
     },
     "About": {
-        "paragraph": "We are a registered software development company, currently based in Mafikeng, North West Province, South Africa. We develop everything from user interfaces to RESTapi endpoints and Databases. We use native development, cross-platform and our favorite flavours happen to be ReactJS and Flutter. However, we lover learning and testing new systems.",
+        "paragraph": "Bahale Codes is more than just Software Development, we are committed in empowering the African nation. We want to build a nation where children from the most remote village in South Africa will look ar a laptop and not fear nor be amazed but rather wonder what type of processor it has. We want to deliver solutions that won't deteriorate our society but also help grow it.",
+        "vision": "Our vision is to be the world's most prolific, successful and relevant, culturally rooted, IT company.",
         "Why": [
             "Security is what we prioritize.",
             "We offer excellent user experience.",

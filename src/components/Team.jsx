@@ -16,12 +16,12 @@ export const Team = (props) => {
                             {' '}
                             <a
                                 href='/thabo'
-                                title='Keaoleboga'
+                                title='Keaoleboga Motlhankane'
                                 data-lightbox-gallery='gallery1'
                             >
                                 <div className='hover-text'>
                                     <h4>Keaoleboga Motlhankane</h4>
-                                    <p>{"Media and Marketing"}</p>
+                                    <p>{"CEO"}</p>
                                 </div>
                                 <img
                                     src='img/team/02.jpg'
@@ -41,17 +41,17 @@ export const Team = (props) => {
                             {' '}
                             <a
                                 href='/thabo'
-                                title='Keaoleboga'
+                                title='Thabo Mponya'
                                 data-lightbox-gallery='gallery1'
                             >
                                 <div className='hover-text'>
                                     <h4>Thabo Mponya</h4>
-                                    <p>{"Founder & CEO"}</p>
+                                    <p>{"Full-Stack Developer"}</p>
                                 </div>
                                 <img
                                     src='img/team/01.jpg'
                                     className='img-responsive'
-                                    alt='loading... Keaoleboga '
+                                    alt='loading... Thabo'
                                 />{' '}
                             </a>{' '}
                             <div className="caption">
@@ -66,7 +66,7 @@ export const Team = (props) => {
                             {' '}
                             <a
                                 href='/thabo'
-                                title='Keaoleboga'
+                                title='Khethiwe Mthetwa'
                                 data-lightbox-gallery='gallery1'
                             >
                                 <div className='hover-text'>
@@ -76,7 +76,7 @@ export const Team = (props) => {
                                 <img
                                     src='img/team/03.jpg'
                                     className='img-responsive'
-                                    alt='loading... Keaoleboga '
+                                    alt='loading... Khethiwe'
                                 />{' '}
                             </a>{' '}
                             <div className="caption">
