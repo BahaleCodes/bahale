@@ -22,6 +22,7 @@ export class Api extends Component {
                                 <div className="col-lg-6 col-sm-6 col-xs-12">
                                     <ul>
                                         <li>Django RestFramework</li>
+                                        <li>NodeJS and ExpressJS</li>
                                     </ul>
                                 </div>
                         </div>

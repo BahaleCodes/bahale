@@ -22,6 +22,7 @@ export class AppDev extends Component {
                                 <div className="col-lg-6 col-sm-6 col-xs-12">
                                     <ul>
                                         <li>FLutter Hybrid Development</li>
+                                        <li>Progressive Web Application Development with React</li>
                                     </ul>
                                 </div>
                         </div>

@@ -1,13 +1,12 @@
 import React from 'react';
 import { useState, useEffect } from 'react'
-import {Navigation} from '../navigation';
-import {Header} from '../header';
-import { About } from '../about'
-import { Services } from '../services'
-import { Gallery } from '../gallery'
-import { Testimonials } from '../testimonials'
-import { Team } from '../Team'
-import { Contact } from '../contact'
+import Navigation from '../Navigation';
+import Header from '../Header';
+import About from '../About'
+import Services from '../Services'
+import Gallery from '../Gallery'
+import Testimonials from '../Testimonials'
+import Contact from '../Contact'
 import JsonData from '../../data/data.json'
 import SmoothScroll from 'smooth-scroll'
 
@@ -29,7 +28,6 @@ const Bahale = () => {
             <Services data={landingPageData.Services} />
             <Gallery />
             <Testimonials data={landingPageData.Testimonials} />
-            <Team data={landingPageData.Team} />
             <Contact data={landingPageData.Contact} />
         </div>
     )
